@@ -52,6 +52,8 @@ Aqui está um exemplo de resposta da API:
     }
   ]
 }
+```
+
 Contribuindo
 Se você deseja contribuir para este projeto, por favor siga os passos abaixo:
 

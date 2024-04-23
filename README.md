@@ -1,8 +1,8 @@
 # API de Rastreamento de Encomendas SSW - Spring Boot
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/api-rastreios-ssw-spring-boot)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/api-rastreios-ssw-spring-boot)
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/api-rastreios-ssw-spring-boot)
+![GitHub](https://img.shields.io/github/license/marcosoleniuk/api-rastreios-ssw-spring-boot)
+![GitHub last commit](https://img.shields.io/github/last-commit/marcosoleniuk/api-rastreios-ssw-spring-boot)
+![GitHub repo size](https://img.shields.io/github/repo-size/marcosoleniuk/api-rastreios-ssw-spring-boot)
 
 API para rastreamento de encomendas do site ssw.inf.br. Esta API é desenvolvida em Spring Boot e permite que os usuários rastreiem suas encomendas de forma rápida e eficiente.
 
@@ -64,5 +64,3 @@ Faça push para a branch (git push origin feature/MinhaFeature)
 Crie um novo Pull Request
 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-Esse README inclui uma seção de exemplo de resposta baseada nos dados fornecidos, juntamente com as informações sobre como usar a API, contribuir para o projeto e a licença.
